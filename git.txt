@@ -34,6 +34,9 @@ git add .
 git commit -m "removed cached"
 git push
 
+
+https://www.toptal.com/developers/gitignore
+
 *******git 폴더명 변경*******
 git mv 현재폴더이름 바꿀폴더이름
 git add .
