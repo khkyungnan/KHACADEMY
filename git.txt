@@ -32,6 +32,7 @@ git status : 빨간 파일은 깃에 올리지 않은 수정되거나 새로 만
 git rm -r --cached . 
 git add . 
 git commit -m "removed cached"
+git push
 
 *******git 폴더명 변경*******
 git mv 현재폴더이름 바꿀폴더이름
